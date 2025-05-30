@@ -1,0 +1,1 @@
+gcc main.c vector.c queue.c matrix.c object.c renderer.c -I"C:\Users\dbran\Desktop\C Programs\libraries\SDL3\x86_64-w64-mingw32\include" -L"C:\Users\dbran\Desktop\C Programs\libraries\SDL3\x86_64-w64-mingw32\lib" -lSDL3 -lm -o renderer4.exe
